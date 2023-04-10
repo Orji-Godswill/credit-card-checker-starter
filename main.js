@@ -34,7 +34,7 @@ const numToArray = (num) => {
     return myArr;
 }
 
-const cardNumber1 = 4929376912354263228;
+const cardNumber1 = 4929376912354263;
 const cardNumberToValidate = numToArray(cardNumber1);
 console.log('--------The Card Number in Arrays---------');
 console.log(cardNumberToValidate);
